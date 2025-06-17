@@ -27,7 +27,11 @@ def create_pdf():
         ("1_model_training.png", "Step 1: Model Training Output"),
         ("2_flask_server.png", "Step 2: Flask Server Running"), 
         ("3_web_interface.png", "Step 3: Web Application"),
-        ("4_prediction.png", "Step 4: Prediction Result")
+        ("4_prediction.png", "Step 4: Prediction Result"),
+        ("5_ec2_running.png", "Step 4: Prediction Result"),
+        ("6_terminal_flask.png", "Step 4: Prediction Result")
+
+
     ]
     
     y_position = height-180
